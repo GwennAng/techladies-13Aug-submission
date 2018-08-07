@@ -48,3 +48,8 @@ ul li.complete {
 p {
 	padding: 0 2rem;
 }
+
+
+nav a {
+	margin-right:40px;
+}

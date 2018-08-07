@@ -1,5 +1,5 @@
 import React from "react";
-import {Todos} from "./App"
+// import {Todos} from "./App"
 
 export class Todos extends React.Component {
     state = {
